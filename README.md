@@ -1,10 +1,8 @@
 # Spatial Proteomics-Based Cancer Survival Prediction
 
-BIOSTAT 626 student team research project, University of Michigan (2024). This public code sample is an edited version of computational analysis code primarily authored by Xueying Zhang. The project uses a CNN for feature extraction from 52-channel proteomics images and Random Forest regression for survival-time prediction.
+The project uses a CNN for feature extraction from 52-channel proteomics images and Random Forest regression for survival-time prediction.
 
-## Data access and disclosure
-
-Original course-supplied tumor images, labels, derived patient predictions, and class reports are **not redistributed**. Obtain permission from the authorized data provider before sharing or using original data outside the course. The supplied notebook expects data placed locally as follows:
+Obtain permission from the authorized data provider before sharing or using original data outside the course. The supplied notebook expects data placed locally as follows:
 
 ```
 data/
